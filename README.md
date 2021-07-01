@@ -9,7 +9,11 @@ Github Copilot!
  
 Paylaştığımız her kod, yarın herkese açık olacakmış. Silinmiş veya izinsiz olan repolar bile. Sadece bir bitti ve önlem almak her zaman için tercih edilir.. 
 Copilotın kodlarımı öğrenmesine izin vermiyorum!
-Kanal 13 Githubda gizlilik konusunda konuşmuşlar. *(Github'ı veya Github'a gönderdiğim tüm kodlar Co Pilot'ın öğrenmesine izin vermem..*) Bu ifade ile Github'a, bu profili ve /veya içeriği doğrultusunda copilota benim kodlarımı öğretmesi kesinlikle yasaktır.. Gizlilik ihlali ve yasası, yasalar tarafından ceza (1_308_1_1_103 308_103 ve Roma tüzüğü...)
+Kanal 13 Githubda gizlilik konusunda konuşmuşlar. 
+
+*(Github'ı veya Github'a gönderdiğim tüm kodlar Co Pilot'ın öğrenmesine izin vermem..*) 
+
+Bu ifade ile Github'a, bu profili ve /veya içeriği doğrultusunda copilota benim kodlarımı öğretmesi kesinlikle yasaktır.. Gizlilik ihlali ve yasası, yasalar tarafından ceza (1_308_1_1_103 308_103 ve Roma tüzüğü...)
  
 Not ;Github artık kamu taraf.. Tüm üyelerin bu şekilde bir not göndermesi gerekiyor.. İsterseniz bu sürümü kopyalayıp koyun.. Böyle bir ifadeyi en az bir kez yayınla, Teknik olarak repolarımın kullanımı ve profil devletle ilgili bilgi içinde.. Paylaş kopyala ama kendi adınız olsun.... Güvenliğiniz için..ÇOK ÖNEMLİDİR... AVUKATLAR KOPYALAYIP YAPIŞTIRMAKTA FAYDA GÖRÜYOR.
  
