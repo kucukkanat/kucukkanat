@@ -6,6 +6,7 @@ Here are some guidelines for working with me for friends and colleagues.
 
 - I use "Tolga" as my first name
 - I usually work between *0930-1800 CET* 
+- [Don't just say hello!](https://nohello.net/)
 - Artifacts with URLSs are good. Aim to create shared artifacts rather than ephemeral undiscoverable messaging trails.
   - If you are messaging me with a reference make sure to include a link or an attachment.
 - I generally do not answer emails after hours or on weekends with a few occasional exceptions.
