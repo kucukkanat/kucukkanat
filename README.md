@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ☝🏻 Check out [my digital garden](https://publish.obsidian.md/kucukkanat)
+- ☝🏻 Check out [my digital garden](https://publish.obsidian.md/kucukkanat) 🪴
 - 📜 [How to work with me](howtowork.md)
 - [Use my public GPG key here](https://github.com/kucukkanat.gpg)
 - Check out [ALE 🍺](https://github.com/kucukkanat/kucukkanat/blob/master/howtowork.md#documentation). My 3 simple principles for better documentation.
