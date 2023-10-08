@@ -1,4 +1,4 @@
-### Hi there 👋 I am Tolga
+### Hi there 👋 I am HT
 
 - ☝🏻 Check out [my digital garden](https://kucukkanat.com) I write here about everything 🪴
 - 📜 If we are working together please read [How to work with me](https://kucukkanat.com/Personal/How+to+work+with+me). It is a `README` of my own or a basic user's manual.
