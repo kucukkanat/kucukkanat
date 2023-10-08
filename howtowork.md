@@ -1,48 +1,50 @@
-# How to work with me 
+# How to work with me
 
 Here are some guidelines for working with me for friends and colleagues.
 
 ## Stuff to know
-
-- I use "Tolga" as my first name
-- I usually work between *0930-1800 CET* 
-- [Don't just say hello!](https://nohello.net/)
-- Artifacts with URLSs are good. Aim to create shared artifacts rather than ephemeral undiscoverable messaging trails.
-  - If you are messaging me with a reference make sure to include a link or an attachment.
-- I generally do not answer emails after hours or on weekends with a few occasional exceptions.
-- I take friday as a meeting-free day to focus on finishing work.
+- You may call me HT
 - If something is not documented, it does not exist.
+- I usually work between *0930-1800 CET* 
+- I generally do not answer emails after hours or on weekends with a few occasional exceptions.
+- I take friday as a meeting-free day to focus on finishing work and unwinding for the weekend
 - Ask me anything. Literally anything. Seriously!
 
-## Meetings
+## How to communicate with me
+- I am a huge advocate of [[Asynchronous communication|asynchronous communication]]
+- [Don't just say hello!](https://nohello.net/)
+- Artifacts with URLs are good. Aim to create shared artifacts rather than ephemeral undiscoverable messaging trails.
+  - If you are messaging me with a reference make sure to include a link or an attachment.
 
-- If you require a meeting (or a video call) longer than 15 minutes then schedule it at least a day in advance.
-- Contracts and time discipline matters much to me. Please notify if you are going to be late for a meeting or need to cancel.
-- If you are sending a meeting invitation please include some context and meeting goals
-- Meetings are more to make decisions collaboratively. Have a clear goal and a list of questions beforehand. I will be attending with mine if I am the one inviting you for a meeting.
-- I like to be visible and transparent at work. Ask me about a _source_ that I am working on and I will point you to it.
-- I like to keep in touch 1-1, preferably bi-weekly we will be scheduling meetings to exchange feedback on each others work.
-- Include a link if you are sending a video call invitation
+## Meetings
+- If a meeting or video conference is expected to exceed 15 minutes, please schedule it a minimum of one day in advance to ensure availability and adequate preparation.
+- Punctuality and adherence to contractual obligations are highly important to me. Kindly inform me in advance if you anticipate being late to a meeting or need to cancel.
+- When extending a meeting invitation, please include sufficient context as well as clearly defined objectives for the session.
+- The primary purpose of meetings is collaborative decision-making. Therefore, it is advisable to come prepared with a clear agenda and a list of discussion points. If I am the initiator of the meeting, I will similarly prepare an agenda and set of questions.
+- Transparency and visibility are valued aspects of my work approach. Feel free to inquire about a [[Source]] I am currently focused on, and I will gladly share them with you.
+- To maintain open lines of communication, I favor regular one-on-one meetings, preferably on a bi-weekly basis, to provide reciprocal feedback on work performance.
+- If the meeting is to be conducted via video conference, please include the necessary link in the invitation for ease of access.
 
 ## Documentation
+I advocate for three principles in documentation, which I refer to as **ALE** 🍺🍻. You can also find these principles at [alemanifesto.com](https://alemanifesto.com/).
 
-I believe in 3 principles for documentation that I call ALE 
+#### Accessible
 
-- Accessible
-- Living
-- Easy to contribute
-
-#### Accessible 
-- A document has to be accessible by everybody with the ease of a click. 
-- Comprehensible for readers from different disciplines.
-- Easy to navigate
+- A document must be searchable.
+- A document should be accessible to everyone with just a click.
+- A document should be comprehensible to readers from various disciplines.
+- Navigation through the document should be straightforward.
 
 #### Living
-- An outdated documentation is less than useless. Automate the documentation if you can.
-- If documentation can not be automated implement documentation maintenance to your natural processes.
+
+- Outdated documentation is worse than having no documentation.
+- Make updating the document a **natural** part of your process.
+- Regularly review and revise the content for accuracy and relevance.
+- Establish a timeline for document audits to keep information current.
+- Use version control to track changes and updates effectively.
 
 #### Easy to Contribute
-It is hard to have a well maintained documentation at all times. The accesibility and the living principles together 
-with quality only comes with good collaboration. 
-- Pick a popular format. Markdown is encouraged for it's flexibility and mobility.
-- Make it possible for not only the maintainers but also readers to contribute to the documentation.
+
+Maintaining well-crafted documentation is challenging. Achieving quality, accessibility, and up-to-date information is easier through good collaboration.
+- Opt for a widely-used format; Markdown is recommended for its flexibility and portability.
+- Enable contributions from not just maintainers, but also readers, to enrich the documentation.
