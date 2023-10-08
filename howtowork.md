@@ -1,5 +1,4 @@
-# How to work with me
-
+# How to work with me 
 Here are some guidelines for working with me for friends and colleagues.
 
 ## Stuff to know
