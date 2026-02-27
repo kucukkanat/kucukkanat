@@ -6,5 +6,5 @@
 - Check out [ALE 🍺](https://alemanifesto.com). My 3 simple principles for better documentation.
 - 🔭 I’m currently working at IKEA
 - 💬 Ask me about anything leadership, engineering, frontend, javascript and aviation 
-- 📫 How to reach out: [kucukkanat@Twitter](twitter.com/kucukkanat)
+- 📫 How to reach out: [hackdonaldsx@Twitter](https://twitter.com/hackdonaldsx)
 
