@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HT — kucukkanat</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      display: flex;
+      justify-content: center;
+      padding: 3rem 1rem;
+      min-height: 100vh;
+    }
+    #content {
+      max-width: 760px;
+      width: 100%;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 2rem 2.5rem;
+      line-height: 1.7;
+    }
+    #content h1, #content h2, #content h3 {
+      border-bottom: 1px solid #30363d;
+      padding-bottom: .4em;
+      margin: 1.5rem 0 .75rem;
+    }
+    #content h1 { font-size: 2em; }
+    #content h2 { font-size: 1.5em; }
+    #content h3 { font-size: 1.25em; }
+    #content a { color: #58a6ff; text-decoration: none; }
+    #content a:hover { text-decoration: underline; }
+    #content ul, #content ol { padding-left: 2em; margin: .5rem 0; }
+    #content li { margin: .25rem 0; }
+    #content code {
+      background: #2d333b;
+      padding: .2em .4em;
+      border-radius: 4px;
+      font-size: .9em;
+    }
+    #content pre code { display: block; padding: 1em; overflow-x: auto; }
+    #content p { margin: .5rem 0; }
+  </style>
+</head>
+<body>
+  <div id="content">Loading…</div>
+  <script src="./marked.umd.js"></script>
+  <script src="./purify.min.js"></script>
+  <script>
+    fetch('./README.md')
+      .then(function(r) { return r.text(); })
+      .then(function(md) {
+        document.getElementById('content').innerHTML = DOMPurify.sanitize(marked.parse(md));
+      })
+      .catch(function() {
+        document.getElementById('content').textContent = 'Failed to load README.md';
+      });
+  </script>
+</body>
+</html>
